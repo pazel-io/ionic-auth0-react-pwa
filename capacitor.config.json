@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-auth0-pwa",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

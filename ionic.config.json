@@ -1,0 +1,7 @@
+{
+  "name": "ionic-auth0-pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
