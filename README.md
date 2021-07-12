@@ -14,9 +14,14 @@ https://pazel.dev/ionic-and-auth0-react-pwa-for-web-and-mobile-no-plugin-require
 
 You need to have a Node LTS and Ionic CLI installed. 
 
-Also, you need you Auth0 account set.
+https://ionicframework.com/docs/intro/cli
 
-Please read my blog about how t
+https://nodejs.org/en/
+
+Also, you need your Auth0 account to be set up.
+
+Please read my blog about how to do it.
+
 
 Clone the project
 
