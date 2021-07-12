@@ -7,7 +7,7 @@ This demo does not need a plugin.
 
 This project is the example code used for a blog explaining how to do the integration step by step.
 
-https://hashnode.com/preview/60e8e961c551f16b0f846d98
+https://pazel.dev/ionic-and-auth0-react-pwa-for-web-and-mobile-no-plugin-required
 
 
 ## Run Locally
